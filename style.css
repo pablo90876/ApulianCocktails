@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #fff8f0;
+  color: #333;
+}
+
+header {
+  background-color: #a41e34;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+}
+
+.hero {
+  padding: 80px;
+  text-align: center;
+  background-image: url('https://source.unsplash.com/1600x600/?cocktail');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #eee;
+}
